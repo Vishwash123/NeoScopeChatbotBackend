@@ -78,8 +78,7 @@ Your project structure should now look something like this:
 
 ├── llama.cpp/
 
-└── models/
-    └── mistral-7b-instruct-v0.1.Q4_K_M.gguf
+└── models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
     
 ## 2. Running the Backend Server
 Once all the setup steps are complete, you can start the backend server.
