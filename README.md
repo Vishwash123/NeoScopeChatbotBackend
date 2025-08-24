@@ -1,4 +1,5 @@
-1. Setup Instructions
+## 1. Setup Instructions
+   
 Follow these steps to get the project running locally.
 
 Step 1.1: Clone the Repository and Create a Virtual Environment
