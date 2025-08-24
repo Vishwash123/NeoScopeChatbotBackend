@@ -63,13 +63,21 @@ Move the downloaded model file into the models folder.
 Your project structure should now look something like this:
 
 /your-project/
+
 ├── chatbot_module.py
+
 ├── classify_module.py
+
 ├── ...
+
 ├── requirements.txt
+
 ├── unified_server.py
+
 ├── venv/
+
 ├── llama.cpp/
+
 └── models/
     └── mistral-7b-instruct-v0.1.Q4_K_M.gguf
     
